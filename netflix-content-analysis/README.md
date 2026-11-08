@@ -2,7 +2,7 @@
 
 I wanted to see what Netflix's catalog is made of: how much is Movies vs TV shows, where the content comes from, which genres and ratings are the most common, and how fast titles get added after they're released.
 
-**Dashboards:** [View on Tableau Public](https://public.tableau.com/app/profile/austin.austin5429/vizzes)
+**Dashboards:** [View on Tableau Public](https://public.tableau.com/views/NetflixContentAnalysis_17937022010060/Details?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Dataset
 
