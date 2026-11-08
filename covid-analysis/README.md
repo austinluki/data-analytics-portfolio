@@ -3,7 +3,7 @@
 
 I explored global COVID-19 data in SQL, then built a Tableau dashboard from the results. I wanted to see how the pandemic played out across countries and continents: how many people got infected, how many died, and how fast vaccinations rolled out.
 
-**Dashboard:** [https://public.tableau.com/shared/MCPCSJWMJ?:display_count=n&:origin=viz_share_link]
+**Dashboard:** [View on Tableau Public](https://public.tableau.com/shared/MCPCSJWMJ?:display_count=n&:origin=viz_share_link)
 
 ## Dataset
 
