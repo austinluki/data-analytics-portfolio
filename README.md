@@ -1,2 +1,27 @@
 # data-analytics-portfolio
-SQL and Tableau Projects
+
+Hi, I'm Austin. This is where I keep my data analytics projects. I'm learning SQL and Tableau, and I'm doing it step by step: I clean the data, write SQL to answer questions about it, then build a dashboard from the results.
+
+I graduated in International Business and I'm currently an admin for 2 Luckypot restaurants. I'm looking for a junior data analyst role because I want to gain experience first and gradually get better at it.
+
+Tools I use: MySQL, SQL Server, DBeaver, Excel and Tableau Public. My dashboards are on my Tableau Public profile: [austin.austin5429](https://public.tableau.com/app/profile/austin.austin5429/vizzes)
+
+## Projects
+
+| Project | What it is |
+|---|---|
+| [Netflix Content Analysis](./netflix-content-analysis) | SQL and Tableau analysis of Netflix movies and TV shows |
+| [COVID-19 Analysis](./covid-analysis) | SQL data exploration and a Tableau dashboard |
+| [Housing Data Analysis](./housing-data-analysis) | Cleaning Nashville housing data in SQL Server |
+| [Layoffs Analysis](./layoffs-analysis) | Cleaning and exploring company layoffs data in MySQL |
+
+The COVID-19, Housing and Layoffs projects follow Alex the Analyst's tutorials. The Netflix project is the one I did after finishing them, using what I learned.
+
+Each project has its own folder and README with the steps I took and what I found.
+
+## Contact
+
+- GitHub: [austinluki](https://github.com/austinluki)
+- Tableau Public: [austin.austin5429](https://public.tableau.com/app/profile/austin.austin5429/vizzes)
+- Email: austinluki13@gmail.com
+- LinkedIn: [austin-austin-6087833a9](https://www.linkedin.com/in/austin-austin-6087833a9)
