@@ -48,8 +48,6 @@ Microsoft SQL Server, Excel and Tableau Public.
 
 I exported four result tables from SQL and used them in Tableau Public: global totals, deaths by continent, the percentage of each country's population infected, and how that percentage changed over time.
 
-[Add a screenshot and one or two lines about the charts you built.]
-
 ## Files
 
 - `COVID PORTFOLIO PROJECT - SQL DATA EXPLORATION.sql`: all my SQL queries
