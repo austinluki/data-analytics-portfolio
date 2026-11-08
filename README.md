@@ -1,8 +1,8 @@
 # data-analytics-portfolio
 
-Hi, I'm Austin. This is where I keep my data analytics projects. I'm learning SQL and Tableau, and I'm doing it step by step: I clean the data, write SQL to answer questions about it, then build a dashboard from the results.
+Hi, I'm Austin. This is where I keep my data analytics projects. I clean the data, write SQL to answer questions about it, then build a dashboard from the results.
 
-I graduated in International Business and I'm currently an admin for 2 Luckypot restaurants. I'm looking for a junior data analyst role because I want to gain experience first and gradually get better at it.
+I graduated in International Business and I'm currently an admin doing data entry work for 2 Luckypot restaurant. I'm looking for a junior data analyst role because I want to gain experience first and gradually get better at it.
 
 Tools I use: MySQL, SQL Server, DBeaver, Excel and Tableau Public. My dashboards are on my Tableau Public profile: [austin.austin5429](https://public.tableau.com/app/profile/austin.austin5429/vizzes)
 
@@ -14,8 +14,6 @@ Tools I use: MySQL, SQL Server, DBeaver, Excel and Tableau Public. My dashboards
 | [COVID-19 Analysis](./covid-analysis) | SQL data exploration and a Tableau dashboard |
 | [Housing Data Analysis](./housing-data-analysis) | Cleaning Nashville housing data in SQL Server |
 | [Layoffs Analysis](./layoffs-analysis) | Cleaning and exploring company layoffs data in MySQL |
-
-The COVID-19, Housing and Layoffs projects follow Alex the Analyst's tutorials. The Netflix project is the one I did after finishing them, using what I learned.
 
 Each project has its own folder and README with the steps I took and what I found.
 
