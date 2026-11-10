@@ -10,10 +10,10 @@ Tools I use: MySQL, SQL Server, DBeaver, Excel and Tableau Public. My dashboards
 
 | Project | What it is |
 |---|---|
-| [Netflix Content Analysis](./netflix-content-analysis) | SQL and Tableau analysis of Netflix movies and TV shows |
-| [COVID-19 Analysis](./covid-analysis) | SQL data exploration and a Tableau dashboard |
-| [Housing Data Analysis](./housing-data-analysis) | Cleaning Nashville housing data in SQL Server |
-| [Layoffs Analysis](./layoffs-analysis) | Cleaning and exploring company layoffs data in MySQL |
+| [Netflix Content Analysis] | SQL and Tableau analysis of Netflix movies and TV shows |
+| [COVID-19 Analysis] | SQL data exploration and a Tableau dashboard |
+| [Housing Data Analysis] | Cleaning Nashville housing data in SQL Server |
+| [Layoffs Analysis] | Cleaning and exploring company layoffs data in MySQL |
 
 Each project has its own folder and README with the steps I took and what I found.
 
